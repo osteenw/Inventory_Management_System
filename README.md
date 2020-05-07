@@ -1,5 +1,6 @@
 # Inventory_Management_System
 Software I School Project
+
 JavaFX GUI
 
 This project is based around the idea of creating an inventory system for a company to replace what they were doing manually with spreadsheets.
